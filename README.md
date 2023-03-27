@@ -8,3 +8,11 @@ Este repositório reúne informações sobre as tecnologias utilizadas no ambien
 - Versionamento (git, gitlab/github)
 - Ambiente Virtual (conda)
 - Editor de código (VSCode)
+
+```
+ cd labri
+
+```
+
+
+**LABRI**
