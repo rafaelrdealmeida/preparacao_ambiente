@@ -20,7 +20,7 @@ git add .
 ```
 
 ```
-git commit -m "mensangem"
+git commit -m "mensagem"
 ```
 
 ```
