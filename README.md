@@ -42,3 +42,9 @@ git rebase.pull true
 
 ```
 
+
+```
+git status
+
+```
+
