@@ -11,3 +11,34 @@ Este repositório reúne informações sobre as tecnologias utilizadas no ambien
 - Ambiente Virtual (conda)
 - Editor de código (VSCode)
 
+## Versionamento
+
+- GIT XX GITLAB/GITHUB
+
+```
+git add .
+```
+
+```
+git commit -m "mensangem"
+```
+
+```
+git pull origin main
+```
+
+```
+git push origin main
+```
+
+
+```
+git fetch
+
+```
+
+```
+git rebase.pull true
+
+```
+
